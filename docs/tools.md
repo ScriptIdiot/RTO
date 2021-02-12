@@ -23,3 +23,4 @@
 * Hex Converter: https://www.scadacore.com/tools/programming-calculators/online-hex-converter/
 * PE Format Documentation: https://docs.microsoft.com/es-es/windows/win32/debug/pe-format?redirectedfrom=MSDN
 * Online file identifier: https://mark0.net/onlinetrid.html
+
